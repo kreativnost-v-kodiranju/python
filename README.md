@@ -1,4 +1,4 @@
-# python
+# Kreativno kodiranje
 Osnovni pristopi v poučevanju programiranja s programskim jezikom Python
 
 Cilj programske enote strokovnega izobraževanja odprtega kurikula Kreativno kodiranje je skozi poučevanje osnov kodiranja in programiranja predstaviti dijakom računalniško mišljenje, ki vključuje 
