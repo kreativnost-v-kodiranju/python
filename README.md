@@ -9,4 +9,5 @@ Cilj programske enote strokovnega izobraževanja odprtega kurikula Kreativno kod
 - iskanje ustreznih algoritmov za pot do rešitve, 
 - analizo napak in 
 - evalvacijo rešitev. 
+
 Fini kurikul je oblikovan tako, da dijake seznani s temeljnimi pojmi in koncepti programiranja ter jih hkrati usposobi za samostojno ustvarjanje krajših programov v slikovnih in besedilnih uporabniških programskih okoljih.
