@@ -38,6 +38,9 @@ tudi obrazložijo in dokumentirajo kodo in narekujejo njeno uporabo. Primer
 rabe obeh vrst komentarjev:
 
 ```python
-s = "Python syntax highlighting"
-print s
+”””Primerek
+programske
+kode
+”””
+i = 0 # začetna vrednost števca
 ```
