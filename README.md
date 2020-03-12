@@ -118,3 +118,5 @@ while (pogoj):
 ```
 
 Pri while zanki moramo biti zelo pozorni na **neskončne zanke**. Neskončna zanka se zgodi takrat, ko je pogoj vedno izpolnjen, program pa bo tekel v neskončnost. Če se nam to slučajno zgodi, pritisnemo kombinacijo tipk **ctrl+c**, s čimer izvajanje programa prekinemo.
+
+## 8  Stavki *break*, *continue* in *pass*
