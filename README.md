@@ -68,7 +68,9 @@ p1 = (a == 0) and (b != 0)
 
 ## 6  Pogojni stavek
 
-Zaporedno izvrševanje programske kode ter s tem toka ukazov in podatkov spreminjamo s krmilnimi stavki, ki vsebujejo **logične izraze**. Če želimo, da se naš program pod drugačnimi pogoji (logične vrednosti) obnaša različno, uporabimo **if** stavek. Če je pogojev več, lahko za **if** uporabimo še razširjeni pogojni stavek **elif** (**else if**), ki doda dodatne pogoje. Če imamo pogojev veliko, **elif** uporabimo večkrat. Za konec pa lahko damo še **else**, ki se izvede takrat, ko ni bil izpolnjen noben od pogojev v **if** in **elif** stavkih. **elif** in **else** deli niso obvezni. 
+Zaporedno izvrševanje programske kode ter s tem toka ukazov in podatkov spreminjamo s krmilnimi stavki, ki vsebujejo **logične izraze**. Če želimo, da se naš program pod drugačnimi pogoji (logične vrednosti) obnaša različno, uporabimo **if** stavek. 
+Če je pogojev več, lahko za **if** uporabimo še razširjeni pogojni stavek **elif** (**else if**), ki doda dodatne pogoje. 
+Če imamo pogojev veliko, **elif** uporabimo večkrat. Za konec pa lahko damo še **else**, ki se izvede takrat, ko ni bil izpolnjen noben od pogojev v **if** in **elif** stavkih. **elif** in **else** deli niso obvezni. 
 Primer programske kode:
 
 ```python
@@ -93,3 +95,26 @@ else:
 # stavki, ki jih izvedemo,
 # ko noben od pogojev ne drži
 ```
+
+## 7  Zanke
+
+Zanke v kodiranju uporabljamo takrat, kadar želimo enega ali več stavkov določenega dela programske kode ponoviti večkrat zaporedoma. Vsaki posamezni izvedbi ponovitve, pri kateri se neko stanje spreminja, pravimo **iteracija**. Poznamo dve osnovni obliki iteracije:
+- **iteracija prek oštevilčenih množic** in
+- **iteracija, krmiljena z logičnimi izrazi**.
+Včasih že vnaprej vemo, kolikokrat bomo določene stavke ponovili. V teh primerih uporabimo iteracijo prek oštevilčenih množic, ki jo realiziramo s **for** zanko. 
+Primer zapisa **for** zanke:
+
+```python
+for spremenljivka in zbirka:
+# se izvaja dokler spremenljivka ne preteče vseh elementov zbirke
+```
+
+Spremenljivka preteče vse elemente dane zbirke, ki je lahko razpon števil, seznam, niz znakov, slovar ipd. Na začetku for zanko uporabljamo skupaj s funkcijo **range(n)**, ki vrne vse elemente v razponu od 0 do n – 1, ter funkcijo **range(a, b)**, ki vrne vse elemente v razponu od vključno prvega (a) do tistega pred drugim (b – 1).
+Kadar želimo, da se določeni stavki programske kode ponavljajo toliko časa, dokler velja nek pogoj, uporabimo **while** zanko. Primer zapisa **while** zanke:
+
+```python
+while (pogoj):
+# se izvaja dokler je pogoj izpolnjen
+```
+
+Pri while zanki moramo biti zelo pozorni na **neskončne zanke**. Neskončna zanka se zgodi takrat, ko je pogoj vedno izpolnjen, program pa bo tekel v neskončnost. Če se nam to slučajno zgodi, pritisnemo kombinacijo tipk **ctrl+c**, s čimer izvajanje programa prekinemo.
