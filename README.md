@@ -27,9 +27,9 @@ razumljivo in berljivo.
 Komentarji so programerjeve opombe v programski kodi, namenjene bralcu —
 sebi ali nekomu drugemu, ki bo to bral za njim. Interpreter jih ignorira.
 V Pythonu obstajajo enovrstični in večvrstični komentarji.
-Enovrstični komentarji se začnejo z znakom #, vse za tem znakom v vrsti se
+Enovrstični komentarji se začnejo z znakom **#**, vse za tem znakom v vrsti se
 ignorira (tako lahko # uporabimo na začetku vrste ali pa pozneje).
-Večvrstični komentarji se začnejo in končajo s trojnim narekovajem ”””, vse
+Večvrstični komentarji se začnejo in končajo s trojnim narekovajem **”””**, vse
 med začetkom in koncem pa se ignorira.
 Komentarje se ponavadi napiše za uvod/obrazložitev programa, pred manj
 razumljiv del kode, da obrazložimo njeno delovanje, ali pa če želimo kakšen del
@@ -49,18 +49,18 @@ i = 0 # začetna vrednost števca
 
 ## 4  Števila in aritmetične operacije
 
-Python v osnovi podpira dve vrsti števil — cela števila (integer, okr. int) in
-decimalna števila (float, double). Za cela števila ni omejitve na dolžino,
+Python v osnovi podpira dve vrsti števil — **cela števila** (integer, okr. int) in
+**decimalna števila** (float, double). Za cela števila ni omejitve na dolžino,
 decimalna števila pa imajo standardne omejitve, a so za naše računanje dovolj
 dobra. Veljavne vrednosti decimalnih števila sta tudi obe neskončnosti in
 ”NaN”, ki pomeni “Not a number”. Cela števila dobimo iz drugih tipov s
-funkcijo int, decimalna pa s funkcijo float.
+funkcijo **int**, decimalna pa s funkcijo **float**.
 V Pythonu izvajamo nad števili naslednje osnovne računske operacije s
 pripadajočimi operatorji:
 - **+** za seštevanje,
 - **–** za odštevanje,
-- ***** za množenje in
-- ****** za potenciranje.
+- * za množenje in
+- ** za potenciranje.
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
 - **//** za celoštevilsko deljenje, ki zavrže morebitni ostanek.
