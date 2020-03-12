@@ -120,3 +120,12 @@ while (pogoj):
 Pri while zanki moramo biti zelo pozorni na **neskončne zanke**. Neskončna zanka se zgodi takrat, ko je pogoj vedno izpolnjen, program pa bo tekel v neskončnost. Če se nam to slučajno zgodi, pritisnemo kombinacijo tipk **ctrl+c**, s čimer izvajanje programa prekinemo.
 
 ## 8  Stavki *break*, *continue* in *pass*
+
+V zankah lahko uporabimo tudi posebne ukaze, ki spreminjajo običajen potek programskih stavkov. Če kjerkoli v zanki napišemo ukaz **break**, bo zanka takrat prekinjena. Občasno programiramo tudi tako, da zanalašč naredimo neskončno zanko, in potem ob določenih pogojih pokličemo **break**. Ukaz break prekine le ”najbližjo” zanko — če imamo gnezdenih več zank (npr. for zanka znotraj while zanke) se bo prekinila le notranja zanka (v našem primeru for zanka).
+Stavek **continue** je podoben stavku **break**, le da ne prekine najbolj notranje zanke, ampak preskoči vse do konca trenutne iteracije in takoj začne izvajanje naslednje. To je uporabno na primer za filtriranje neveljavnih podatkov. Stavek
+**continue** lahko vedno nadomestimo z ustreznim **if else** stavkom, a je to lahko veliko manj berljivo.
+Stavek **pass** lahko uporabljamo kjerkoli v Pythonu, ne le v zankah. Najpogosteje ga uporabimo takrat, kadar Python zahteva, da napišemo vsaj en ukaz, vendar ne želimo storiti ničesar. Stavek pass ne stori ničesar, zato ga lahko pustimo v kodi.
+
+## 9  Funkcije
+
+Funkcije so zelo uporabljene strukture v kodiranju. Zaradi splošnosti in lepih načinov za dodajanje novih funkcionalnosti in zato, ker naredijo kodo mnogo bolj berljivo in uporabno so eden najpomembnejših konceptov, ki se je zelo razvit in zelo pomemben v resnem programiranju. Velika prednost funkcij je to, da ni potrebno vedeti, kako točno deluje (lahko nam kakšno funkcijo npr. napiše kdo drug, jo skopiramo iz interneta itd.). Poleg tega funkcije naredijo kodo lažje za vzdrževanje, saj omogočajo preprosto popravljanje in spreminjanje. Če namreč v funkciji pride do kakšne napake, lahko napako popravimo le v definiciji, namesto da bi jo morali popraviti povsod, kjer funkcijo uporabimo.
