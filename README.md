@@ -60,7 +60,7 @@ pripadajočimi operatorji:
 - **+** za seštevanje,
 - **-** za odštevanje,
 - **\*** za množenje in
-- ** za potenciranje.
+- **\**** za potenciranje.
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
 - **//** za celoštevilsko deljenje, ki zavrže morebitni ostanek.
