@@ -124,7 +124,7 @@ Pri while zanki moramo biti zelo pozorni na **neskončne zanke**. Neskončna zan
 V zankah lahko uporabimo tudi posebne ukaze, ki spreminjajo običajen potek programskih stavkov. Če kjerkoli v zanki napišemo ukaz **break**, bo zanka takrat prekinjena. Občasno programiramo tudi tako, da zanalašč naredimo neskončno zanko, in potem ob določenih pogojih pokličemo **break**. Ukaz break prekine le ”najbližjo” zanko — če imamo gnezdenih več zank (npr. for zanka znotraj while zanke) se bo prekinila le notranja zanka (v našem primeru for zanka).
 Stavek **continue** je podoben stavku **break**, le da ne prekine najbolj notranje zanke, ampak preskoči vse do konca trenutne iteracije in takoj začne izvajanje naslednje. To je uporabno na primer za filtriranje neveljavnih podatkov. Stavek
 **continue** lahko vedno nadomestimo z ustreznim **if else** stavkom, a je to lahko veliko manj berljivo.
-Stavek **pass** lahko uporabljamo kjerkoli v Pythonu, ne le v zankah. Najpogosteje ga uporabimo takrat, kadar Python zahteva, da napišemo vsaj en ukaz, vendar ne želimo storiti ničesar. Stavek pass ne stori ničesar, zato ga lahko pustimo v kodi.
+Stavek **pass** lahko uporabljamo kjerkoli v Pythonu, ne le v zankah. Najpogosteje ga uporabimo takrat, kadar Python zahteva, da napišemo vsaj en ukaz, vendar ne želimo storiti ničesar. Stavek **pass** ne stori ničesar, zato ga lahko pustimo v kodi.
 
 ## 9  Funkcije
 
@@ -138,12 +138,12 @@ def imeFunkcije(parameter1, parameter2):
 ```
 
 Če hočemo, da funkcija kaj vrne, to povemo z ukazom return. Ko funkcija nekaj vrne, lahko to ujamemo in s tem nekaj naredimo (npr. shranimo v spremenljivko, izpišemo itd.) ali pa ne naredimo ničesar — s tem bo stvar, ki jo je funkcija vrnila, izgubljena. Ko se v funkciji izvede return ukaz, se funkcija konča, tudi če je pod stavkom še kaj kode. Če ukaza return ni, potem funkcija na koncu vrne None.
-Ko izvedemo program, ki vsebuje samo definicije funkcij, se ne zgodi nič. Funkcijo je treba namreč še poklicati (po imenu). Naše funkcije kličemo popolnoma enako kot že vdelane funkcije (npr. print(), range(), ...)
+Ko izvedemo program, ki vsebuje samo definicije funkcij, se ne zgodi nič. Funkcijo je treba namreč še poklicati (po imenu). Naše funkcije kličemo popolnoma enako kot že vdelane funkcije (npr. print(), range(), ...).
 Primer zapisa funkcije s klicanjem funkcije:
 
 ```python
 def f(x,y):
- Funkcija f, ki pri danih parametrih x, y izračuna … ”””
+"""Funkcija f, ki pri danih parametrih x, y izračuna … """
   r = i1(x, y) # poljuben izraz za izračun vrednosti r
   t = i2(x, y) # poljuben izraz za izračun vrednosti t
   return (r,t)
