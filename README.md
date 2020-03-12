@@ -106,7 +106,7 @@ Primer zapisa **for** zanke:
 
 ```python
 for spremenljivka in zbirka:
-# se izvaja dokler spremenljivka ne preteče vseh elementov zbirke
+  # se izvaja dokler spremenljivka ne preteče vseh elementov zbirke
 ```
 
 Spremenljivka preteče vse elemente dane zbirke, ki je lahko razpon števil, seznam, niz znakov, slovar ipd. Na začetku for zanko uporabljamo skupaj s funkcijo **range(n)**, ki vrne vse elemente v razponu od 0 do n – 1, ter funkcijo **range(a, b)**, ki vrne vse elemente v razponu od vključno prvega (a) do tistega pred drugim (b – 1).  
@@ -116,7 +116,7 @@ Primer zapisa **while** zanke:
 
 ```python
 while (pogoj):
-# se izvaja dokler je pogoj izpolnjen
+  # se izvaja dokler je pogoj izpolnjen
 ```
 
 Pri while zanki moramo biti zelo pozorni na **neskončne zanke**. Neskončna zanka se zgodi takrat, ko je pogoj vedno izpolnjen, program pa bo tekel v neskončnost. Če se nam to slučajno zgodi, pritisnemo kombinacijo tipk **ctrl+c**, s čimer izvajanje programa prekinemo.
