@@ -57,9 +57,9 @@ dobra. Veljavne vrednosti decimalnih števila sta tudi obe neskončnosti in
 funkcijo **int**, decimalna pa s funkcijo **float**.
 V Pythonu izvajamo nad števili naslednje osnovne računske operacije s
 pripadajočimi operatorji:
-- **+** za seštevanje,
-- **–** za odštevanje,
-- ***** za množenje in
+- + za seštevanje,
+- - za odštevanje,
+- * za množenje in
 - ** za potenciranje.
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
