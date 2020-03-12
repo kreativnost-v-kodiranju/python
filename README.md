@@ -110,7 +110,9 @@ for spremenljivka in zbirka:
 ```
 
 Spremenljivka preteče vse elemente dane zbirke, ki je lahko razpon števil, seznam, niz znakov, slovar ipd. Na začetku for zanko uporabljamo skupaj s funkcijo **range(n)**, ki vrne vse elemente v razponu od 0 do n – 1, ter funkcijo **range(a, b)**, ki vrne vse elemente v razponu od vključno prvega (a) do tistega pred drugim (b – 1).  
-Kadar želimo, da se določeni stavki programske kode ponavljajo toliko časa, dokler velja nek pogoj, uporabimo **while** zanko.   Primer zapisa **while** zanke:
+Kadar želimo, da se določeni stavki programske kode ponavljajo toliko časa, dokler velja nek pogoj, uporabimo **while** 
+zanko.  
+Primer zapisa **while** zanke:
 
 ```python
 while (pogoj):
