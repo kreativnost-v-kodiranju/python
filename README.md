@@ -29,3 +29,15 @@ sebi ali nekomu drugemu, ki bo to bral za njim. Interpreter jih ignorira.
 V Pythonu obstajajo enovrstični in večvrstični komentarji.
 Enovrstični komentarji se začnejo z znakom #, vse za tem znakom v vrsti se
 ignorira (tako lahko # uporabimo na začetku vrste ali pa pozneje).
+Večvrstični komentarji se začnejo in končajo s trojnim narekovajem ”””, vse
+med začetkom in koncem pa se ignorira.
+Komentarje se ponavadi napiše za uvod/obrazložitev programa, pred manj
+razumljiv del kode, da obrazložimo njeno delovanje, ali pa če želimo kakšen del
+kode trenutno umakniti iz programa, ne da bi ga izbrisali. Komentarji pogosto
+tudi obrazložijo in dokumentirajo kodo in narekujejo njeno uporabo. Primer
+rabe obeh vrst komentarjev:
+
+```python
+s = "Python syntax highlighting"
+print s
+```
