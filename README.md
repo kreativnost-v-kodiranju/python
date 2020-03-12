@@ -139,7 +139,7 @@ def imeFunkcije(parameter1, parameter2):
   # telo funkcije - koda, ki se izvede, ko pokličemo funkcijo
 ```
 
-Če hočemo, da funkcija kaj vrne, to povemo z ukazom return. Ko funkcija nekaj vrne, lahko to ujamemo in s tem nekaj naredimo (npr. shranimo v spremenljivko, izpišemo itd.) ali pa ne naredimo ničesar — s tem bo stvar, ki jo je funkcija vrnila, izgubljena. Ko se v funkciji izvede return ukaz, se funkcija konča, tudi če je pod stavkom še kaj kode. Če ukaza return ni, potem funkcija na koncu vrne None.  
+Če hočemo, da funkcija kaj vrne, to povemo z ukazom **return**. Ko funkcija nekaj vrne, lahko to ujamemo in s tem nekaj naredimo (npr. shranimo v spremenljivko, izpišemo itd.) ali pa ne naredimo ničesar — s tem bo stvar, ki jo je funkcija vrnila, izgubljena. Ko se v funkciji izvede return ukaz, se funkcija konča, tudi če je pod stavkom še kaj kode. Če ukaza return ni, potem funkcija na koncu vrne **None**.  
 Ko izvedemo program, ki vsebuje samo definicije funkcij, se ne zgodi nič. Funkcijo je treba namreč še poklicati (po imenu). Naše funkcije kličemo popolnoma enako kot že vdelane funkcije (npr. print(), range(), ...).  
 Primer zapisa funkcije s klicanjem funkcije po argumentih:
 
