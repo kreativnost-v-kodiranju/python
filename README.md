@@ -44,7 +44,7 @@ V Pythonu izvajamo nad števili naslednje osnovne računske operacije s pripadaj
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
 - **//** za celoštevilsko deljenje, ki zavrže morebitni ostanek.  
-Če želimo izračunati samo ostanek, uporabimo operator **%**. Prioriteta operatorjev je določena tako kot običajno: najtesneje veže potenciranje, nato množenje in deljenji, nazadnje pa seštevanje in odštevanje. Če želimo vrstni red spremeniti, uporabimo običajne oklepaje. Za lažjo berljivost programske kode po dogovoru na vsaki strani operatorja prirejanja vrednosti spremenljivke in dvomestne operacije pišemo presledek, prav tako pišemo presledek za ločili, pred njimi pa ne.   
+Če želimo izračunati samo ostanek, uporabimo operator **%**. Prioriteta operatorjev je določena tako kot običajno: najtesneje veže potenciranje, nato množenje in deljenji, nazadnje pa seštevanje in odštevanje. Če želimo vrstni red spremeniti, uporabimo običajne oklepaje. Za lažjo berljivost programske kode po dogovoru na vsaki strani operatorja prirejanja vrednosti spremenljivke in dvomestne operacije pišemo presledek, prav tako pišemo presledek za ločili, pred njimi pa ne.     
 Primeri programske kode:
 
 ```python
@@ -58,7 +58,7 @@ b = 123.456 # decimalno število
 
 ## 5  Logične vrednosti
 
-Poleg števil Python pozna tudi logični vrednosti **True** in **False**, ki označujeta resnico in neresnico. Logične vrednosti ponavadi dobimo kot rezultat primerjav, kot so enakost z operatorjem **==**, neenakost z operatorjem **!=** ali urejenostne relacije **<, >, <=, >=**, ter prek logičnih operacij and, or in not. Uporabo logičnih operacij izvedemo z logičnimi izrazi, ki opredeljujejo enostavne ali sestavljene pogoje. Sestavljene pogoje dobimo s kombinacijo enostavnih z uporabo logičnih operacij.  
+Poleg števil Python pozna tudi logični vrednosti **True** in **False**, ki označujeta resnico in neresnico. Logične vrednosti ponavadi dobimo kot rezultat primerjav, kot so enakost z operatorjem **==**, neenakost z operatorjem **!=** ali urejenostne relacije **<, >, <=, >=**, ter prek logičnih operacij and, or in not. Uporabo logičnih operacij izvedemo z logičnimi izrazi, ki opredeljujejo enostavne ali sestavljene pogoje. Sestavljene pogoje dobimo s kombinacijo enostavnih z uporabo logičnih operacij.    
 Primeri programske kode:
 
 ```python
@@ -70,7 +70,7 @@ p1 = (a == 0) and (b != 0)
 
 Zaporedno izvrševanje programske kode ter s tem toka ukazov in podatkov spreminjamo s krmilnimi stavki, ki vsebujejo **logične izraze**. Če želimo, da se naš program pod drugačnimi pogoji (logične vrednosti) obnaša različno, uporabimo **if** stavek. 
 Če je pogojev več, lahko za **if** uporabimo še razširjeni pogojni stavek **elif** (**else if**), ki doda dodatne pogoje. 
-Če imamo pogojev veliko, **elif** uporabimo večkrat. Za konec pa lahko damo še **else**, ki se izvede takrat, ko ni bil izpolnjen noben od pogojev v **if** in **elif** stavkih. **elif** in **else** deli niso obvezni.   
+Če imamo pogojev veliko, **elif** uporabimo večkrat. Za konec pa lahko damo še **else**, ki se izvede takrat, ko ni bil izpolnjen noben od pogojev v **if** in **elif** stavkih. **elif** in **else** deli niso obvezni.     
 Primer programske kode:
 
 ```python
@@ -101,7 +101,7 @@ else:
 Zanke v kodiranju uporabljamo takrat, kadar želimo enega ali več stavkov določenega dela programske kode ponoviti večkrat zaporedoma. Vsaki posamezni izvedbi ponovitve, pri kateri se neko stanje spreminja, pravimo **iteracija**. Poznamo dve osnovni obliki iteracije:
 - **iteracija prek oštevilčenih množic** in
 - **iteracija, krmiljena z logičnimi izrazi**.  
-Včasih že vnaprej vemo, kolikokrat bomo določene stavke ponovili. V teh primerih uporabimo iteracijo prek oštevilčenih množic, ki jo realiziramo s **for** zanko.   
+Včasih že vnaprej vemo, kolikokrat bomo določene stavke ponovili. V teh primerih uporabimo iteracijo prek oštevilčenih množic, ki jo realiziramo s **for** zanko.    
 Primer zapisa **for** zanke:
 
 ```python
@@ -139,7 +139,7 @@ def imeFunkcije(parameter1, parameter2):
 
 Če hočemo, da funkcija kaj vrne, to povemo z ukazom return. Ko funkcija nekaj vrne, lahko to ujamemo in s tem nekaj naredimo (npr. shranimo v spremenljivko, izpišemo itd.) ali pa ne naredimo ničesar — s tem bo stvar, ki jo je funkcija vrnila, izgubljena. Ko se v funkciji izvede return ukaz, se funkcija konča, tudi če je pod stavkom še kaj kode. Če ukaza return ni, potem funkcija na koncu vrne None.  
 Ko izvedemo program, ki vsebuje samo definicije funkcij, se ne zgodi nič. Funkcijo je treba namreč še poklicati (po imenu). Naše funkcije kličemo popolnoma enako kot že vdelane funkcije (npr. print(), range(), ...).  
-Primer zapisa funkcije s klicanjem funkcije:
+Primer zapisa funkcije s klicanjem funkcije po argumentih:
 
 ```python
 def f(x,y):
