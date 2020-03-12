@@ -50,7 +50,7 @@ i = 0 # začetna vrednost števca
 ## 4  Števila in aritmetične operacije
 
 Python v osnovi podpira dve vrsti števil — **cela števila** (integer, okr. int) in
-**decimalna števila** (float, double). Za cela števila ni omejitve na dolžino,
+**realna števila** v formatu plavajoče pike (float, double). Za cela števila ni omejitve na dolžino,
 decimalna števila pa imajo standardne omejitve, a so za naše računanje dovolj
 dobra. Veljavne vrednosti decimalnih števila sta tudi obe neskončnosti in
 ”NaN”, ki pomeni “Not a number”. Cela števila dobimo iz drugih tipov s
@@ -59,7 +59,7 @@ V Pythonu izvajamo nad števili naslednje osnovne računske operacije s
 pripadajočimi operatorji:
 - **+** za seštevanje,
 - **–** za odštevanje,
-- * za množenje in
+- ***** za množenje in
 - ** za potenciranje.
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
