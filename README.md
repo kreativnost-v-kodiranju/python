@@ -38,9 +38,47 @@ tudi obrazložijo in dokumentirajo kodo in narekujejo njeno uporabo. Primer
 rabe obeh vrst komentarjev:
 
 ```python
-"""Primerek
+"""
+Primerek
 programske
 kode
 """
+
 i = 0 # začetna vrednost števca
 ```
+
+## 4  Števila in aritmetične operacije
+
+Python v osnovi podpira dve vrsti števil — cela števila (integer, okr. int) in
+decimalna števila (float, double). Za cela števila ni omejitve na dolžino,
+decimalna števila pa imajo standardne omejitve, a so za naše računanje dovolj
+dobra. Veljavne vrednosti decimalnih števila sta tudi obe neskončnosti in
+”NaN”, ki pomeni “Not a number”. Cela števila dobimo iz drugih tipov s
+funkcijo int, decimalna pa s funkcijo float.
+V Pythonu izvajamo nad števili naslednje osnovne računske operacije s
+pripadajočimi operatorji:
+- **+** za seštevanje,
+- **–** za odštevanje,
+- ***** za množenje in
+- ****** za potenciranje.
+Za deljenje Python pozna dve operaciji:
+- **/** za običajno deljenje in
+- **//** za celoštevilsko deljenje, ki zavrže morebitni ostanek.
+Če želimo izračunati samo ostanek, uporabimo operator **%**.
+Prioriteta operatorjev je določena tako kot običajno: najtesneje veže
+potenciranje, nato množenje in deljenji, nazadnje pa seštevanje in odštevanje.
+Če želimo vrstni red spremeniti, uporabimo običajne oklepaje. Za lažjo
+berljivost programske kode po dogovoru na vsaki strani operatorja prirejanja
+vrednosti spremenljivke in dvomestne operacije pišemo presledek, prav tako
+pišemo presledek za ločili, pred njimi pa ne. 
+Primeri programske kode:
+
+```python
+imeSpremenljivke = vrenostKiJoZelimoShraniti # prireditveni stavek
+y = x + 3
+z = (x + 2 * y) ** (1 / 2)
+x += c
+a = 123456 # celo število
+b = 123.456 # decimalno število
+```
+
