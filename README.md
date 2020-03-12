@@ -7,5 +7,5 @@ dostopamo na več načinov:
 - neposredno iz ukazne vrstice,
 - z uporabo enostavnega okolja IDLE, ki je priloženo vsaki namestitvi
   Pythona,
-- ali pa prek kakšnega od naprednejših razvijalskih okolij, na primer
-PyCharmCE.
+- ali pa prek kakšnega od naprednejših razvijalskih okolij, na primer **Visual Studio Code** ali
+**PyCharmCE**.
