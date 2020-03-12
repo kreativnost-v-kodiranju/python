@@ -129,7 +129,7 @@ Stavek **pass** lahko uporabljamo kjerkoli v Pythonu, ne le v zankah. Najpogoste
 ## 9  Funkcije
 
 Funkcije so zelo uporabljene strukture v kodiranju. Zaradi splošnosti in lepih načinov za dodajanje novih funkcionalnosti in zato, ker naredijo kodo mnogo bolj berljivo in uporabno so eden najpomembnejših konceptov, ki se je zelo razvit in zelo pomemben v resnem programiranju. Velika prednost funkcij je to, da ni potrebno vedeti, kako točno deluje (lahko nam kakšno funkcijo npr. napiše kdo drug, jo skopiramo iz interneta itd.). Poleg tega funkcije naredijo kodo lažje za vzdrževanje, saj omogočajo preprosto popravljanje in spreminjanje. Če namreč v funkciji pride do kakšne napake, lahko napako popravimo le v definiciji, namesto da bi jo morali popraviti povsod, kjer funkcijo uporabimo.
-Funkcijo vedno začnemo z rezervirano besedo def, nato pride ime funkcije (kot ime spremenljivke mora biti nujno iz ene besede) in v oklepaju poljubno število parametrov. Telo funkcije je potrebno zamakniti. 
+Funkcijo vedno začnemo z rezervirano besedo **def**, nato pride **ime funkcije** (kot ime spremenljivke mora biti nujno iz ene besede) in v oklepaju poljubno število **parametrov**. Telo funkcije je potrebno zamakniti. 
 Primer zapisa funkcije:
 
 ```python
@@ -144,12 +144,11 @@ Primer zapisa funkcije s klicanjem funkcije:
 ```python
 def f(x,y):
 ””” Funkcija f, ki pri danih parametrih x, y izračuna … ”””
-r = i1(x, y) # poljuben izraz za izračun vrednosti r
-t = i2(x, y) # poljuben izraz za izračun vrednosti t
-return (r,t)
+  r = i1(x, y) # poljuben izraz za izračun vrednosti r
+  t = i2(x, y) # poljuben izraz za izračun vrednosti t
+  return (r,t)
+  
 a =
 b =
-(u,v) = f(a,b) # prirejanje vrednosti funkcije f
-# spremenljivkama u in v
-konkretni
-``
+(u,v) = f(a,b) # prirejanje vrednosti funkcije f argumentoma u in v
+```
