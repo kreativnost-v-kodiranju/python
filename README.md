@@ -143,7 +143,7 @@ Primer zapisa funkcije s klicanjem funkcije:
 
 ```python
 def f(x,y):
-””” Funkcija f, ki pri danih parametrih x, y izračuna … ”””
+ Funkcija f, ki pri danih parametrih x, y izračuna … ”””
   r = i1(x, y) # poljuben izraz za izračun vrednosti r
   t = i2(x, y) # poljuben izraz za izračun vrednosti t
   return (r,t)
