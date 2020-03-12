@@ -38,9 +38,9 @@ tudi obrazložijo in dokumentirajo kodo in narekujejo njeno uporabo. Primer
 rabe obeh vrst komentarjev:
 
 ```python
-”””Primerek
+"""Primerek
 programske
 kode
-”””
+"""
 i = 0 # začetna vrednost števca
 ```
