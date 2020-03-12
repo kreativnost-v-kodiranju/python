@@ -134,7 +134,7 @@ Primer zapisa funkcije:
 
 ```python
 def imeFunkcije(parameter1, parameter2):
-# koda, ki se izvede, ko pokličemo funkcijo
+  # telo funkcije - koda, ki se izvede, ko pokličemo funkcijo
 ```
 
 Če hočemo, da funkcija kaj vrne, to povemo z ukazom return. Ko funkcija nekaj vrne, lahko to ujamemo in s tem nekaj naredimo (npr. shranimo v spremenljivko, izpišemo itd.) ali pa ne naredimo ničesar — s tem bo stvar, ki jo je funkcija vrnila, izgubljena. Ko se v funkciji izvede return ukaz, se funkcija konča, tudi če je pod stavkom še kaj kode. Če ukaza return ni, potem funkcija na koncu vrne None.
