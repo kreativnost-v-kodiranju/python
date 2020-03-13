@@ -44,6 +44,7 @@ V Pythonu izvajamo nad števili naslednje osnovne računske operacije s pripadaj
 Za deljenje Python pozna dve operaciji:
 - **/** za običajno deljenje in
 - **//** za celoštevilsko deljenje, ki zavrže morebitni ostanek.  
+
 Če želimo izračunati samo ostanek, uporabimo operator **%**. Prioriteta operatorjev je določena tako kot običajno: najtesneje veže potenciranje, nato množenje in deljenji, nazadnje pa seštevanje in odštevanje. Če želimo vrstni red spremeniti, uporabimo običajne oklepaje. Za lažjo berljivost programske kode po dogovoru na vsaki strani operatorja prirejanja vrednosti spremenljivke in dvomestne operacije pišemo presledek, prav tako pišemo presledek za ločili, pred njimi pa ne.     
 Primeri programske kode:
 
