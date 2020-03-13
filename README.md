@@ -77,24 +77,24 @@ Primer programske kode:
 ```python
 """Osnovni if stavek"""
 if (pogoj):
-# stavki, ki jih izvedemo,
-# ko pogoj drži
+  # stavki, ki jih izvedemo,
+  # ko pogoj drži
 else:
-# stavki, ki jih izvedemo,
-# ko pogoj ne drži
+  # stavki, ki jih izvedemo,
+  # ko pogoj ne drži
 """Razširjeni pogojni stavek if — elif"""
 if (pogoj1):
-# stavki, ki jih izvedemo,
-# ko pogoj1 drži
+  # stavki, ki jih izvedemo,
+  # ko pogoj1 drži
 elif (pogoj2):
-# stavki, ki jih izvedemo,
-# ko pogoj1 ne drži, ampak drži pogoj2
+  # stavki, ki jih izvedemo,
+  # ko pogoj1 ne drži, ampak drži pogoj2
 elif (pogoj3):
-# stavki, ki jih izvedemo,
-# ko tudi pogoj2 ne drži, ampak drži pogoj3
+  # stavki, ki jih izvedemo,
+  # ko tudi pogoj2 ne drži, ampak drži pogoj3
 else:
-# stavki, ki jih izvedemo,
-# ko noben od pogojev ne drži
+  # stavki, ki jih izvedemo,
+  # ko noben od pogojev ne drži
 ```
 
 ## 7  Zanke
