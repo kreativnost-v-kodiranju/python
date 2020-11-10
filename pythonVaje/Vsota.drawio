@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T20:40:39.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="PxqW8FJ6e6ytTAxblQso" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T19:59:16.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Kcb3oUpC1vMNMdQHF3nE" version="13.9.2" type="github">
   <diagram id="enq9tbYXUga7cvXpYVXk" name="Page-1">
-    <mxGraphModel dx="1619" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,8 +170,14 @@
         <mxCell id="UUqpzmmsJI0lA6TKm8VX-61" value="Modularna struktura – funkcija" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="130" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yqWATx-qltcT1qXuTOcK-1" value="Vejitev" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="yqWATx-qltcT1qXuTOcK-1" value="Vejitev" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="352" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1O0wpHyoQ25bpzVYRwgI-1" value="&lt;h3&gt;&lt;font face=&quot;Georgia&quot;&gt;Funkcija&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1O0wpHyoQ25bpzVYRwgI-3" value="&lt;h3&gt;&lt;font face=&quot;Georgia&quot;&gt;Funkcija&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="820" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
