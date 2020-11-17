@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T09:49:06.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="ofGRpjGigpwXDPEXyHZX" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T09:50:46.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="XhNh_OLc6LgstJLCh5Ww" version="13.9.9" type="github">
   <diagram id="fycQSyhCZheVYzVLmbO5" name="Page-1">
     <mxGraphModel dx="1620" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-29" value="vsota = prvoStevilo + drugoStevilo" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="380" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="475" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-34" value="T" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="481" width="20" height="20" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-39" value="razlika = prvoStevilo – drugoStevilo" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="380" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="585" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-40" value="T" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="591" width="20" height="20" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-46" value="zmnožek = prvoStevilo * drugoStevilo" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="380" y="695" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="695" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-47" value="T" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="701" width="20" height="20" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-52" value="količnik = prvoStevilo / drugoStevilo" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="380" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="805" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PB8nC3DUvfMvwmevtk14-53" value="T" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="811" width="20" height="20" as="geometry" />
