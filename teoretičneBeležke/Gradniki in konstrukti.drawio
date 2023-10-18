@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T11:42:40.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="2YPvdxgSzyYxarJrbTtm" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T11:56:20.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="-7VHJ6_c6XizKiHgJkFj" version="22.0.4" type="github">
   <diagram name="Page-1" id="xmLucLTNDA9fvizqHUl4">
-    <mxGraphModel dx="1830" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2042" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g0E_oPUi4hRpqpy96bWl-57" value="&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot;&gt;NE&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0E_oPUi4hRpqpy96bWl-53" vertex="1" connectable="0">
-          <mxGeometry x="-0.5211" y="1" relative="1" as="geometry">
+          <mxGeometry x="-0.52" y="1" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -323,7 +323,7 @@
         <mxCell id="g0E_oPUi4hRpqpy96bWl-90" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;Zanka&amp;nbsp;&lt;font face=&quot;Source Code Pro&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#3399ff&quot;&gt;while&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Ponavlja stavek s, dokler je izpolnjen pogoj p&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Space Grotesk;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BGrotesk;" parent="1" vertex="1">
           <mxGeometry x="1170" y="901" width="285" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g0E_oPUi4hRpqpy96bWl-91" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;Zanka&amp;nbsp;&lt;font face=&quot;Source Code Pro&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#3399ff&quot;&gt;for&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Najprej inicializiramo spremenljivko i. Nato preverimo pogoj p. Če je pogoj izpolnjen, se izvede stavek s in nato se poveča spremenljivka i.Sledi ponovno preverjanje pogoja p&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Space Grotesk;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BGrotesk;" parent="1" vertex="1">
+        <mxCell id="g0E_oPUi4hRpqpy96bWl-91" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;Zanka&amp;nbsp;&lt;font face=&quot;Source Code Pro&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#3399ff&quot;&gt;for&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Najprej inicializiramo spremenljivko i. Nato preverimo pogoj p. Če je pogoj izpolnjen, se izvede stavek s in nato se poveča spremenljivka i. Sledi ponovno preverjanje pogoja p&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Space Grotesk;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BGrotesk;" parent="1" vertex="1">
           <mxGeometry x="1586.55" y="901" width="285" height="260" as="geometry" />
         </mxCell>
         <mxCell id="g0E_oPUi4hRpqpy96bWl-92" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;Zaporedje stavkov &lt;font face=&quot;Source Code Pro&quot; color=&quot;#3399ff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot;&gt;s&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Stavki s&lt;sub&gt;1&lt;/sub&gt;, s&lt;sub&gt;2&lt;/sub&gt;, ..., s&lt;sub&gt;n&lt;/sub&gt; se izvajajo eden za drugim.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Space Grotesk;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BGrotesk;" parent="1" vertex="1">
@@ -334,6 +334,18 @@
         </mxCell>
         <mxCell id="iqxpMiQIvIpluZAcRGf5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iqxpMiQIvIpluZAcRGf5-1" target="iqxpMiQIvIpluZAcRGf5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EU4n9_aWw0PnftSMKvxO-1" value="&lt;font color=&quot;#3399ff&quot;&gt;if&lt;/font&gt; (p) {s}" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1111" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU4n9_aWw0PnftSMKvxO-2" value="&lt;font color=&quot;#3399ff&quot;&gt;if&lt;/font&gt; (p) {s&lt;sub&gt;1&lt;/sub&gt;}&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;else&lt;/font&gt; {s&lt;sub&gt;2&lt;/sub&gt;}" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1061.5" width="180" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="EU4n9_aWw0PnftSMKvxO-5" value="&lt;font color=&quot;#3399ff&quot;&gt;while&lt;/font&gt; (p) {s}&lt;br&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1090" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EU4n9_aWw0PnftSMKvxO-6" value="&lt;font color=&quot;#3399ff&quot;&gt;for&lt;/font&gt; (i; p; i+) {s}" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1584.05" y="1090" width="287.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
