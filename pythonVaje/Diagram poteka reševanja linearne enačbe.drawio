@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T11:01:25.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="pxCTqgFOCvgVc-Mc4I3G" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T11:02:01.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Nxq0Zwe8qInQvb7fBH8f" version="24.2.3" type="github">
   <diagram id="kmR8cQMLBEui-aiKMY-3" name="Page-1">
     <mxGraphModel dx="1848" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QI0CAktTYMknltCW-ucY-9" value="vsa realna&amp;nbsp;&lt;br&gt;števila" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Space Mono;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+        <mxCell id="QI0CAktTYMknltCW-ucY-9" value="vsa&amp;nbsp;&lt;div&gt;realna&lt;/div&gt;&lt;div&gt;števila&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Space Mono;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;align=center;" parent="1" vertex="1">
           <mxGeometry x="404" y="282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QI0CAktTYMknltCW-ucY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" source="QI0CAktTYMknltCW-ucY-19" edge="1">
