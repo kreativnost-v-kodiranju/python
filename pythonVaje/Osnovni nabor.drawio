@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-04-12T11:26:12.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="-JGAhUFN3pqX2OGzf1No" version="24.2.3" type="github">
+  <diagram id="bmVnqA7Bfffdc4a_zzxx" name="Page-1">
+    <mxGraphModel dx="1848" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vQr4e6KUUM5n94_abipU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;strokeWidth=2;fillColor=#eeeeee;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="39" y="241" width="750" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-1" value="začetek, konec" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="59" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-2" value="operacija" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="209" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-3" value="vnos, izpis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;rounded=1;strokeColor=#b85450;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="359" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-4" value="vejitev" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="499" y="271" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-5" value="funkcija" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="609" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-6" value="" style="endArrow=open;html=1;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;horizontal=0;endFill=0;strokeWidth=2;endSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="341" as="sourcePoint" />
+            <mxPoint x="769" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-8" value="&lt;h1&gt;Osnovni nabor grafičnih elementov za izris diagrama poteka&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;align=center;" parent="1" vertex="1">
+          <mxGeometry x="39" y="111" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;endArrow=open;endFill=0;endSize=10;strokeWidth=2;" parent="1" source="vQr4e6KUUM5n94_abipU-9" target="vQr4e6KUUM5n94_abipU-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Ubuntu+Mono&quot;&gt;začetek&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="354" y="512" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Ubuntu+Mono&quot;&gt;konec&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="354" y="952" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;endArrow=open;endFill=0;endSize=10;strokeWidth=2;" parent="1" source="vQr4e6KUUM5n94_abipU-11" target="vQr4e6KUUM5n94_abipU-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-11" value="vnos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;rounded=1;strokeColor=#b85450;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="354" y="622" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;endArrow=open;endFill=0;endSize=10;strokeWidth=2;" parent="1" source="vQr4e6KUUM5n94_abipU-12" target="vQr4e6KUUM5n94_abipU-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-12" value="operacija" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="354" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;endArrow=open;endFill=0;endSize=10;strokeWidth=2;" parent="1" source="vQr4e6KUUM5n94_abipU-15" target="vQr4e6KUUM5n94_abipU-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-15" value="izpis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;rounded=1;strokeColor=#b85450;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="354" y="842" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-20" value="pravokotnik z &lt;br&gt;zaobljenimi oglišči" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="38" y="351" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-21" value="paralelogram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="383" y="351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-24" value="pravokotnik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="224" y="351" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-25" value="romb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="509" y="351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQr4e6KUUM5n94_abipU-26" value="pravokotnik z &lt;br&gt;zaobljenimi oglišči&lt;br&gt;in črtama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
+          <mxGeometry x="588.5" y="351" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-43" value="začni" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontColor=#b00d23;" parent="1" vertex="1">
+          <mxGeometry x="180" y="526" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-44" value="vpiši:" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontColor=#b00d23;" parent="1" vertex="1">
+          <mxGeometry x="179" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-45" value="izračunaj:" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontColor=#b00d23;" parent="1" vertex="1">
+          <mxGeometry x="180" y="747" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-46" value="izpiši:" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontColor=#b00d23;" parent="1" vertex="1">
+          <mxGeometry x="179" y="857" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-47" value="končaj" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontColor=#b00d23;" parent="1" vertex="1">
+          <mxGeometry x="179" y="967" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-48" value="Psevdokoda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontColor=#000000;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="190" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJj52Ea-2d2MnTdpGHWC-49" value="Diagram poteka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontColor=#000000;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="322" y="460" width="177" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
